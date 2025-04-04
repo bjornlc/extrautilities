@@ -1,0 +1,14 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "collectibles",
+  "Position": [
+    1227.49,
+    132.033,
+    6260.46
+  ],
+  "Radius": 10,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}
+
